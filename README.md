@@ -1,7 +1,7 @@
 # TallerPatronG7
 Integrantes:
-Pedro Bajaña 
-Hugo Davila 
-Jorge Vulgarin 
-Gustavo Lopez 
-Mario Carvajal
+* Pedro Bajaña 
+* Hugo Dávila 
+* Jorge Vulgarin 
+* Gustavo López 
+* Mario Chalén
